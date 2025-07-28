@@ -1,6 +1,6 @@
 # End-to-End-Water-ML-pipeline
 # 💧 Water Data Science Workshop: From Sensor to Prediction
-
+## Link to to the Google Colab: https://drive.google.com/drive/folders/1rcArNjIzrj4C6_bRsibS0acRSkfAnvNU?usp=sharing
 Welcome to the official repository for the **Water Data Science Workshop**, a two-day intensive course designed for graduate students and early-career professionals interested in applying machine learning (ML) to ultrafiltration (UF) water treatment systems.
 
 This repo contains:
@@ -8,10 +8,7 @@ This repo contains:
 - 📓 Jupyter Notebooks for code demonstrations
 - 🖼️ Slide decks (coming soon)
 - 🧪 Functional feature extraction scripts
-- 📊 Dashboard and model deployment examples
-
 ---
-
 ## 🧠 Workshop Objectives
 
 - Understand the structure and function of UF water treatment systems and their sensor data
